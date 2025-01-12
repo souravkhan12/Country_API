@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Bamanwas",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2025-01-06T10:22:01.021Z",
+      "notes": "",
+      "position": {
+        "lat": "26.58434112218148",
+        "lng": "76.63976666651443"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Faridabad",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2025-01-06T14:45:56.817Z",
+      "notes": "",
+      "position": {
+        "lat": "28.39810532855845",
+        "lng": "77.25520846165314"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2025-01-06T14:58:29.209Z",
+      "notes": "",
+      "position": {
+        "lat": "19.075984",
+        "lng": "72.877656"
+      },
+      "id": 10
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2025-01-06T15:56:47.383Z",
+      "notes": "",
+      "position": {
+        "lat": "40.00194698504996",
+        "lng": "-0.007254033408594652"
+      },
+      "id": 11
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2025-01-09T09:36:30.308Z",
+      "notes": "",
+      "position": {
+        "lat": "28.6752768",
+        "lng": "77.2374528"
+      },
+      "id": 12
+    }
+  ]
+}
